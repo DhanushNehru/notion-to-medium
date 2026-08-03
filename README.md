@@ -53,7 +53,7 @@ In Notion, open the page (or database) you want to export:
 # https://notion.so/My-Page-Title-abc123def456
 #                                  ^^^^^^^^^^^^^^ this is the page ID
 
-node src/cli.js export <page-id>
+node src/cli.js <page-id>
 ```
 
 This will:
